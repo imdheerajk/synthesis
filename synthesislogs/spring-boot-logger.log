@@ -1,0 +1,858 @@
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89478 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 47ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$599d6aa2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): 8080 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in 1342 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - HHH000206: hibernate.properties not found
+INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@229cb4d8'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-8080"]
+INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.217 seconds (JVM running for 5.337)
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89502 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 41ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$49cfacb2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): 8080 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in 1472 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - HHH000206: hibernate.properties not found
+INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@1aa59698'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-8080"]
+INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.273 seconds (JVM running for 5.116)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 10 ms
+INFO  - credit card no XXXXXXX payment cvv 123
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID XXXXXXX27 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 46ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ed8e3dc8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): XXXXXXX0 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-XXXXXXX0"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in XXXXXXX4 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHHXXXXXXXXXXXXXX: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHHXXXXXXXXXXXXXX: Hibernate Core {5.3.10.Final}
+INFO  - HHHXXXXXXXXXXXXXX: hibernate.properties not found
+INFO  - HCANNXXXXXXXXXXXXXX: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHHXXXXXXXXXXXXXX: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHHXXXXXXXXXXXXXX: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3aXXXXXXX0f7'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-XXXXXXX0"]
+INFO  - Tomcat started on port(s): XXXXXXX0 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.XXXXXXX seconds (JVM running for 5.XXXXXXX)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 10 ms
+INFO  - credit card no XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX6 payment cvv XXXXXXX
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID XXXXXXX78 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 59ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$XXXXXXXd6aa2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): XXXXXXX0 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-XXXXXXX0"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in XXXXXXX2 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHHXXXXXXXXXXXXXX: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHHXXXXXXXXXXXXXX: Hibernate Core {5.3.10.Final}
+INFO  - HHHXXXXXXXXXXXXXX: hibernate.properties not found
+INFO  - HCANNXXXXXXXXXXXXXX: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHHXXXXXXXXXXXXXX: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHHXXXXXXXXXXXXXX: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3c3cd13a'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-XXXXXXX0"]
+INFO  - Tomcat started on port(s): XXXXXXX0 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.XXXXXXX seconds (JVM running for 5.XXXXXXX)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 9 ms
+INFO  - creditcard=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX6 payment cvv XXXXXXX
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89599 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 53ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$93ce592b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): 8080 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in 1377 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - HHH000206: hibernate.properties not found
+INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@41a8f0d8'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-8080"]
+INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.198 seconds (JVM running for 5.006)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 10 ms
+INFO  - creditcard=1234567890123456cvv=123
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89610 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 59ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a553801b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): 8080 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in 1451 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - HHH000206: hibernate.properties not found
+INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3639b04'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-8080"]
+INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.425 seconds (JVM running for 5.211)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 18 ms
+INFO  - creditcard=1234567890123456
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89623 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 56ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bf4d474e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): 8080 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in 1391 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - HHH000206: hibernate.properties not found
+INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@2a531637'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-8080"]
+INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.164 seconds (JVM running for 5.063)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 22 ms
+INFO  - creditcard=1234567890123456
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89681 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - No active profile set, falling back to default profiles: default
+INFO  - Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - Finished Spring Data repository scanning in 47ms. Found 2 repository interfaces.
+INFO  - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a4771baa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - Tomcat initialized with port(s): 8080 (http)
+INFO  - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - Starting service [Tomcat]
+INFO  - Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - Initializing Spring embedded WebApplicationContext
+INFO  - Root WebApplicationContext: initialization completed in 1321 ms
+INFO  - HikariPool-1 - Starting...
+WARN  - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - HikariPool-1 - Start completed.
+INFO  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - HHH000206: hibernate.properties not found
+INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@1f3361e9'
+INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - Starting ProtocolHandler ["http-nio-8080"]
+INFO  - Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - Started SynthesisApplication in 4.096 seconds (JVM running for 5.204)
+INFO  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - Initializing Servlet 'dispatcherServlet'
+INFO  - Completed initialization in 15 ms
+INFO  - credit card=1234567890123456
+INFO  - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - HikariPool-1 - Shutdown initiated...
+INFO  - HikariPool-1 - Shutdown completed.
+INFO  - com.programming.exercise.synthesis.SynthesisApplication Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89728 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.SynthesisApplication No active profile set, falling back to default profiles: default
+INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 54ms. Found 2 repository interfaces.
+INFO  - org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$50741e61] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+INFO  - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - org.apache.catalina.core.StandardService Starting service [Tomcat]
+INFO  - org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+INFO  - org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1372 ms
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+WARN  - com.zaxxer.hikari.util.DriverDataSource Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+INFO  - org.hibernate.jpa.internal.util.LogHelper HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - org.hibernate.Version HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - org.hibernate.cfg.Environment HHH000206: hibernate.properties not found
+INFO  - org.hibernate.annotations.common.Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - org.hibernate.dialect.Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - org.hibernate.tool.schema.internal.SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@76e9eed8'
+INFO  - org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+INFO  - org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - com.programming.exercise.synthesis.SynthesisApplication Started SynthesisApplication in 4.187 seconds (JVM running for 5.004)
+INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+INFO  - org.springframework.web.servlet.DispatcherServlet Completed initialization in 19 ms
+INFO  - com.programming.exercise.synthesis.controller.PaymentController credit card=1234567890123456
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown initiated...
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown completed.
+INFO  - com.programming.exercise.synthesis.SynthesisApplication Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 89771 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.SynthesisApplication No active profile set, falling back to default profiles: default
+INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 43ms. Found 2 repository interfaces.
+INFO  - org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$760002d8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+INFO  - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - org.apache.catalina.core.StandardService Starting service [Tomcat]
+INFO  - org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+INFO  - org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1336 ms
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+WARN  - com.zaxxer.hikari.util.DriverDataSource Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+INFO  - org.hibernate.jpa.internal.util.LogHelper HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - org.hibernate.Version HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - org.hibernate.cfg.Environment HHH000206: hibernate.properties not found
+INFO  - org.hibernate.annotations.common.Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - org.hibernate.dialect.Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - org.hibernate.tool.schema.internal.SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@56b751b1'
+INFO  - org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+INFO  - org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - com.programming.exercise.synthesis.SynthesisApplication Started SynthesisApplication in 4.148 seconds (JVM running for 5.225)
+INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+INFO  - org.springframework.web.servlet.DispatcherServlet Completed initialization in 22 ms
+INFO  - com.programming.exercise.synthesis.controller.PaymentController XXXXXXX
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 89896 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 11 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.215 seconds (JVM running for 5.236)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 89935 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 14 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.365 seconds (JVM running for 4.976)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+INFO  - com.programming.exercise.synthesis.controller.PaymentController XXXXXXX
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+ERROR - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:151)
+	at com.programming.exercise.synthesis.controller.PaymentController.getPayment(PaymentController.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+ERROR - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:151)
+	at com.programming.exercise.synthesis.controller.PaymentController.getPayment(PaymentController.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+ERROR - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:151)
+	at com.programming.exercise.synthesis.controller.PaymentController.getPayment(PaymentController.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+ERROR - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:151)
+	at com.programming.exercise.synthesis.controller.PaymentController.getPayment(PaymentController.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+ERROR - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:151)
+	at com.programming.exercise.synthesis.controller.PaymentController.getPayment(PaymentController.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90073 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 14 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.529 seconds (JVM running for 5.152)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90086 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 31 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.175 seconds (JVM running for 4.7)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90126 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 13 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.319 seconds (JVM running for 4.866)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90134 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 12 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.147 seconds (JVM running for 4.673)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90142 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 15 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.142 seconds (JVM running for 4.768)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90154 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 12 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.202 seconds (JVM running for 4.73)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Starting PaymentControllerTest on saurabhs-MacBook-Pro.local with PID 90170 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 18 ms
+INFO  - com.programming.exercise.synthesis.controllers.PaymentControllerTest Started PaymentControllerTest in 3.301 seconds (JVM running for 4.762)
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.programming.exercise.synthesis.controller.PaymentController.makePayment(com.programming.exercise.synthesis.entity.Payment): [Field error in object 'payment' on field 'creditCard': rejected value [1234567890]; codes [CreditCardConstraint.payment.creditCard,CreditCardConstraint.creditCard,CreditCardConstraint.java.lang.String,CreditCardConstraint]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [payment.creditCard,creditCard]; arguments []; default message [creditCard]]; default message [Invalid  credit  card number]] ]
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.UserControllerTest Starting UserControllerTest on saurabhs-MacBook-Pro.local with PID 90239 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.UserControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 12 ms
+INFO  - com.programming.exercise.synthesis.controllers.UserControllerTest Started UserControllerTest in 3.18 seconds (JVM running for 4.846)
+INFO  - com.programming.exercise.synthesis.controller.UserController  id is1
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - com.programming.exercise.synthesis.controllers.UserControllerTest Starting UserControllerTest on saurabhs-MacBook-Pro.local with PID 90261 (started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.controllers.UserControllerTest No active profile set, falling back to default profiles: default
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.boot.test.mock.web.SpringBootMockServletContext Initializing Spring TestDispatcherServlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Initializing Servlet ''
+INFO  - org.springframework.test.web.servlet.TestDispatcherServlet Completed initialization in 14 ms
+INFO  - com.programming.exercise.synthesis.controllers.UserControllerTest Started UserControllerTest in 3.435 seconds (JVM running for 4.949)
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.programming.exercise.synthesis.controller.UserController.makeUser(com.programming.exercise.synthesis.entity.User): [Field error in object 'user' on field 'emailAddress': rejected value [dhk.com]; codes [Email.user.emailAddress,Email.emailAddress,Email.java.lang.String,Email]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.emailAddress,emailAddress]; arguments []; default message [emailAddress],[Ljavax.validation.constraints.Pattern$Flag;@71531dd7,org.springframework.validation.beanvalidation.SpringValidatorAdapter$ResolvableAttribute@20256a0b]; default message [Not a valid Email Id !]] ]
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+ERROR - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Method [<init>] was discovered in the .class file but cannot be resolved in the class object] with root cause
+java.lang.NoSuchMethodException: com.programming.exercise.synthesis.entity.User.<init>(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String)
+	at java.base/java.lang.Class.getConstructor0(Class.java:3322)
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2510)
+	at org.springframework.core.LocalVariableTableParameterNameDiscoverer$LocalVariableTableVisitor.resolveMember(LocalVariableTableParameterNameDiscoverer.java:246)
+	at org.springframework.core.LocalVariableTableParameterNameDiscoverer$LocalVariableTableVisitor.visitEnd(LocalVariableTableParameterNameDiscoverer.java:234)
+	at org.springframework.asm.ClassReader.readMethod(ClassReader.java:1279)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:679)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:391)
+	at org.springframework.core.LocalVariableTableParameterNameDiscoverer.inspectClass(LocalVariableTableParameterNameDiscoverer.java:116)
+	at org.springframework.core.LocalVariableTableParameterNameDiscoverer.getParameterNames(LocalVariableTableParameterNameDiscoverer.java:74)
+	at org.springframework.core.PrioritizedParameterNameDiscoverer.getParameterNames(PrioritizedParameterNameDiscoverer.java:55)
+	at org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1.getParameterNames(LocalValidatorFactoryBean.java:324)
+	at org.hibernate.validator.internal.util.ExecutableParameterNameProvider.getParameterNames(ExecutableParameterNameProvider.java:37)
+	at org.hibernate.validator.internal.metadata.aggregated.ParameterMetaData$Builder.build(ParameterMetaData.java:169)
+	at org.hibernate.validator.internal.metadata.aggregated.ExecutableMetaData$Builder.findParameterMetaData(ExecutableMetaData.java:435)
+	at org.hibernate.validator.internal.metadata.aggregated.ExecutableMetaData$Builder.build(ExecutableMetaData.java:388)
+	at org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl$BuilderDelegate.build(BeanMetaDataImpl.java:788)
+	at org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl$BeanMetaDataBuilder.build(BeanMetaDataImpl.java:648)
+	at org.hibernate.validator.internal.metadata.BeanMetaDataManager.createBeanMetaData(BeanMetaDataManager.java:204)
+	at org.hibernate.validator.internal.metadata.BeanMetaDataManager.getBeanMetaData(BeanMetaDataManager.java:166)
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validate(ValidatorImpl.java:157)
+	at org.springframework.validation.beanvalidation.SpringValidatorAdapter.validate(SpringValidatorAdapter.java:116)
+	at org.springframework.boot.autoconfigure.validation.ValidatorAdapter.validate(ValidatorAdapter.java:70)
+	at org.springframework.validation.DataBinder.validate(DataBinder.java:889)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.validateIfApplicable(AbstractMessageConverterMethodArgumentResolver.java:265)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:136)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:126)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  - org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean Closing JPA EntityManagerFactory for persistence unit 'default'
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown initiated...
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Shutdown completed.
+INFO  - com.programming.exercise.synthesis.SynthesisApplication Starting SynthesisApplication on saurabhs-MacBook-Pro.local with PID 90317 (/Users/saurabhmoghe/Downloads/synthesis/target/classes started by saurabhmoghe in /Users/saurabhmoghe/Downloads/synthesis)
+INFO  - com.programming.exercise.synthesis.SynthesisApplication No active profile set, falling back to default profiles: default
+INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data repositories in DEFAULT mode.
+INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 45ms. Found 2 repository interfaces.
+INFO  - org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a24b653e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  - org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+INFO  - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+INFO  - org.apache.catalina.core.StandardService Starting service [Tomcat]
+INFO  - org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.21]
+INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+INFO  - org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1479 ms
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+WARN  - com.zaxxer.hikari.util.DriverDataSource Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  - com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+INFO  - org.hibernate.jpa.internal.util.LogHelper HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+INFO  - org.hibernate.Version HHH000412: Hibernate Core {5.3.10.Final}
+INFO  - org.hibernate.cfg.Environment HHH000206: hibernate.properties not found
+INFO  - org.hibernate.annotations.common.Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+INFO  - org.hibernate.dialect.Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+INFO  - org.hibernate.tool.schema.internal.SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@2a531637'
+INFO  - org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean Initialized JPA EntityManagerFactory for persistence unit 'default'
+INFO  - org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+WARN  - org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO  - org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+INFO  - org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+INFO  - com.programming.exercise.synthesis.SynthesisApplication Started SynthesisApplication in 4.453 seconds (JVM running for 5.575)
+INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  - org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+INFO  - org.springframework.web.servlet.DispatcherServlet Completed initialization in 11 ms
+WARN  - org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.programming.exercise.synthesis.controller.UserController.makeUser(com.programming.exercise.synthesis.entity.User): [Field error in object 'user' on field 'address': rejected value [null]; codes [NotNull.user.address,NotNull.address,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.address,address]; arguments []; default message [address]]; default message [address can not be empty!]] ]
+INFO  - com.programming.exercise.synthesis.controller.UserController name=Dheeraj
+INFO  - com.programming.exercise.synthesis.controller.UserController XXXXXXX.kanojia93@gmail.com
+INFO  - com.programming.exercise.synthesis.controller.UserController  id is1
+INFO  - com.programming.exercise.synthesis.controller.PaymentController credit card=1234567890123456
+INFO  - com.programming.exercise.synthesis.controller.PaymentController cvv=999
